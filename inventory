@@ -1,0 +1,2 @@
+[webservers]
+iac2  ansible_user=root ansible_host=192.168.17.129 keepalived_state=MASTER keepalived_priority=101
